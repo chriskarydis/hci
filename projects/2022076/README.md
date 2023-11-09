@@ -100,8 +100,8 @@ Eγκατάσταση:
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
   * Προσωπικό site από το αποθετήριο μου (test site): [inf2022076](https://inf2022076.netlify.app)
-  * Άρθρο για το `Drone` στο προσωπικό αποθετήριο (test site): [Drone](https://greekforce1821-site.netlify.app/gallery/drone)
-  * Άρθρο για την `Apple Vision Pro` στο προσωπικό αποθετήριο (test site): [Apple Vision Pro](https://greekforce1821-site.netlify.app/gallery/visionpro)
+  * Άρθρο για το `Drone` στο προσωπικό αποθετήριο (test site): [Drone](https://inf2022076.netlify.app/gallery/drone)
+  * Άρθρο για την `Apple Vision Pro` στο προσωπικό αποθετήριο (test site): [Apple Vision Pro](https://inf2022076.netlify.app/gallery/visionpro)
   * Φωτογραφία του [`Drone`](https://github.com/chriskarydis/images/blob/master/Drones_Original.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/Drones_Original-thumb.jpg) στο προσωπικό αποθετήριο (test site)
   * Φωτογραφία του [`Apple Vision Pro`](https://github.com/chriskarydis/images/blob/master/apple-vision-pro.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/apple-vision-pro-thumb.jpg) στο προσωπικό αποθετήριο (test site)
 
