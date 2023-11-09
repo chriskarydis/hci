@@ -85,9 +85,34 @@ Eγκατάσταση:
 
 # Παραδοτέο 3ο / Συμμετοχικό περιεχόμενο Α1 & Α2:
 
-Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά στην ανάπτυξη του ήδη υπάρχοντος site. Σαν admin του οργανισμού [Epikoinonites](https://github.com/Epikoinonites) δημιούργησα τον οργανισμό, [repository](https://github.com/Epikoinonites/.github) για την περιγραφή του και την παρουσιάση των μελών του και section για [συζήτηση](https://github.com/orgs/Epikoinonites/discussions) περί καλοσωρίσματος νέων μελών, ιδεών για το site, προβλημάτων που ίσως προκύψουν στην πορεία και τέλος οδηγίες χρήσης για να καταφέρει το κάθε μέλος ξεχωριστά να συμβάλλει στην ανάπτυξη της ιστοσελίδας.
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά στην ανάπτυξη του ήδη υπάρχοντος [site](https://pibook.epidro.me/). Σαν admin του οργανισμού [Epikoinonites](https://github.com/Epikoinonites) δημιούργησα τον οργανισμό, [repository](https://github.com/Epikoinonites/.github) για την περιγραφή του και την παρουσιάση των μελών του και section για [συζήτηση](https://github.com/orgs/Epikoinonites/discussions) περί καλοσωρίσματος νέων μελών, ιδεών για το site, προβλημάτων που ίσως προκύψουν στην πορεία και τέλος οδηγίες χρήσης για να καταφέρει το κάθε μέλος ξεχωριστά να συμβάλλει στην ανάπτυξη της ιστοσελίδας.
 
 Προσωπικά, ασχολήθηκα με δύο θέματα τα οποία ανέπτυξα στην ιστοσελίδα και τα οποία κατά την γνώμη μου απευθύνονται στις τωρινές τάσεις περι επικοινωνίας ανθρώπου - υπολογιστή μέσω υλικών αγαθών. Συγκεκριμένα, αναφέρθηκα στο Apple Vision Pro το οποίο είναι η πιο πρόσφατη δημιουργία για mixed reality και στα drones καθώς είναι το μέλλον των αεροσκαφών.
+
+## Περιγραφή: <ins>Apple Vision Pro</ins>
+
+Η πρώτη ιδέα για τα γυαλιά εικονικής πραγματικότητας εμφανίστηκε από τον κινηματογραφίστα Morton Heilig το 1956 και υλοποιήθηκε το 1962 με το Sensorama. Συνδυάζονταν έγχρωμο 3D βίντεο, ήχος, δονήσεις, μυρωδιές και ατμοσφαιρικά φαινόμενα. Επιστρέφοντας στο σήμερα, η Apple έκανε την είσοδο της στην βιομηχανία των VR συσκευών τον Ιούνιο του 2023 με το Apple Vision Pro. Το Apple Vision Pro συνδυάζει απρόσκοπτα το ψηφιακό περιεχόμενο με τον φυσικό σας χώρο. Μπορείτε να πλοηγηθείτε απλά χρησιμοποιώντας τα μάτια, τα χέρια και τη φωνή σας.
+
+## Περιγραφή: <ins>Drones</ins>
+
+Η παλαιότερη καταγεγραμμένη χρήση ενός μη επανδρωμένου εναέριου οχήματος (drone), για πολεμικές μάχες, σημειώθηκε τον Ιούλιο του 1849, σε ένα αεροπλανοφόρο στην πρώτη επιθετική χρήση της ναυτική αεροπορίας. Η ανάπτυξη έξυπνων τεχνολογιών οδήγησαν σε παράλληλη αύξηση της χρήσης drones για καταναλωτικές και γενικές αεροπορικές δραστηριότητες. Από το 2021, τα drones quadcopter αποτελούν παράδειγμα της ευρείας δημοτικότητας των χόμπι τηλεκατευθυνόμενων αεροσκαφών και παιχνιδιών, αλλά και μεταφορών δεμάτων και πακέτων.
+
+# Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
+
+  * Προσωπικό site από το αποθετήριο μου (test site): [inf2022076](https://inf2022076.netlify.app/)
+  * Άρθρο για το `Drone` στο προσωπικό αποθετήριο (test site): [Drone](https://greekforce1821-site.netlify.app/gallery/drone/)
+  * Άρθρο για την `Apple Vision Pro` στο προσωπικό αποθετήριο (test site): [Apple Vision Pro](https://greekforce1821-site.netlify.app/gallery/visionpro/)
+  * Φωτογραφία του [`Drone`](https://github.com/chriskarydis/images/blob/master/Drones_Original.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/Drones_Original-thumb.jpg) στο προσωπικό αποθετήριο (test site)
+  * Φωτογραφία του [`Apple Vision Pro`](https://github.com/chriskarydis/images/blob/master/apple-vision-pro.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/apple-vision-pro-thumb.jpg) στο προσωπικό αποθετήριο (test site)
+
+---
+
+  * Το site από το αποθετήριο του οργανισμού: [Epikoinonites](https://epikoinonites.netlify.app/)
+  * Το άρθρο μου για την `Drone` στο αποθετήριο του οργανισμού: [Drone Organization](https://epikoinonites.netlify.app//gallery/drone/)
+  * Το άρθρο μου για τον `Apple Vision Pro` στο αποθετήριο του οργανισμού: [Apple Vision Pro Organization](https://epikoinonites.netlify.app//gallery/visionpro/)
+  * Φωτογραφία του [`Drone`](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/Drones_Original.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/Drones_Original-thumb.jpg)
+  * Φωτογραφία του [`Apple Vision Pro`](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/apple-vision-pro.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/apple-vision-pro-thumb.jpg)
+
 
 # Παραδοτέο 4o: Warming Up with CLI Commands:
 
