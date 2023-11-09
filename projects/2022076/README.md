@@ -99,17 +99,17 @@ Eγκατάσταση:
 
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
-  * Προσωπικό site από το αποθετήριο μου (test site): [inf2022076](https://inf2022076.netlify.app/)
-  * Άρθρο για το `Drone` στο προσωπικό αποθετήριο (test site): [Drone](https://greekforce1821-site.netlify.app/gallery/drone/)
-  * Άρθρο για την `Apple Vision Pro` στο προσωπικό αποθετήριο (test site): [Apple Vision Pro](https://greekforce1821-site.netlify.app/gallery/visionpro/)
+  * Προσωπικό site από το αποθετήριο μου (test site): [inf2022076](https://inf2022076.netlify.app)
+  * Άρθρο για το `Drone` στο προσωπικό αποθετήριο (test site): [Drone](https://greekforce1821-site.netlify.app/gallery/drone)
+  * Άρθρο για την `Apple Vision Pro` στο προσωπικό αποθετήριο (test site): [Apple Vision Pro](https://greekforce1821-site.netlify.app/gallery/visionpro)
   * Φωτογραφία του [`Drone`](https://github.com/chriskarydis/images/blob/master/Drones_Original.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/Drones_Original-thumb.jpg) στο προσωπικό αποθετήριο (test site)
   * Φωτογραφία του [`Apple Vision Pro`](https://github.com/chriskarydis/images/blob/master/apple-vision-pro.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/chriskarydis/images/blob/master/apple-vision-pro-thumb.jpg) στο προσωπικό αποθετήριο (test site)
 
 ---
 
-  * Το site από το αποθετήριο του οργανισμού: [Epikoinonites](https://epikoinonites.netlify.app/)
-  * Το άρθρο μου για την `Drone` στο αποθετήριο του οργανισμού: [Drone Organization](https://epikoinonites.netlify.app//gallery/drone/)
-  * Το άρθρο μου για τον `Apple Vision Pro` στο αποθετήριο του οργανισμού: [Apple Vision Pro Organization](https://epikoinonites.netlify.app//gallery/visionpro/)
+  * Το site από το αποθετήριο του οργανισμού: [Epikoinonites](https://epikoinonites.netlify.app)
+  * Το άρθρο μου για την `Drone` στο αποθετήριο του οργανισμού: [Drone Organization](https://epikoinonites.netlify.app//gallery/drone)
+  * Το άρθρο μου για τον `Apple Vision Pro` στο αποθετήριο του οργανισμού: [Apple Vision Pro Organization](https://epikoinonites.netlify.app//gallery/visionpro)
   * Φωτογραφία του [`Drone`](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/Drones_Original.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/Drones_Original-thumb.jpg)
   * Φωτογραφία του [`Apple Vision Pro`](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/apple-vision-pro.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Epikoinonites/images/blob/b71f0adc4fdfc5b970cb32bd4a76b2d8b19edd5e/apple-vision-pro-thumb.jpg)
 
