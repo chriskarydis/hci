@@ -24,10 +24,11 @@ Netlify Personal Site Deploy: [Site](https://inf2022076.netlify.app/)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link συζήτησης](https://github.com/courses-ionio/hci/discussions/1959) | 80% επιτυχία, καθώς η πραγματοποίηση μερικών ζητουμένων ήταν εκπρόθεσμη |
-| 2 | Άσκηση γραμμής εντολών (arch linux install) | [Link συζήτησης](https://github.com/courses-ionio/hci/discussions/1972#discussion-5754810) | 80% επιτυχία, καθώς η πραγματοποίηση μερικών ζητουμένων ήταν εκπρόθεσμη |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link συζήτησης](https://github.com/courses-ionio/hci/discussions/1959) |  |
+| 2 | Άσκηση γραμμής εντολών (arch linux install) | [Link συζήτησης](https://github.com/courses-ionio/hci/discussions/1972#discussion-5754810) | |
 | 3 | Συμμετοχικό περιεχόμενο A1+A2 | | |
-| 4 | Άσκηση γραμμής εντολών (pandoc blog) | | |
+| 4 | Άσκηση γραμμής εντολών (pandoc blog) | -[journalctl -b anf neofetch comands in arch linux with i3](https://asciinema.org/a/619965) -[Read news and explore (crypto) currencies exchange rates](https://asciinema.org/a/619668) -[Fetch the weather forecast for the city of Corfu and for the city of New York.](https://asciinema.org/a/619667) -[Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (software+hardware) ](https://asciinema.org/a/619663) -[WIfi connection with nmcli](https://asciinema.org/a/619545)
+ | |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | |
 | 6 | Συμμετοχικό περιεχόμενο B1 | | |
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | | |
@@ -85,3 +86,18 @@ Eγκατάσταση:
 # Παραδοτέο 3ο / Συμμετοχικό περιεχόμενο Α1 & Α2:
 
 # Παραδοτέο 4o: Warming Up with CLI Commands:
+
+Σε αυτό το παραδοτέο πραγματοποίησα ορισμένες από τις [Warming Up with CLI Commands](https://github.com/epidrome/dokey).
+
+Αυτές είναι οι παρακάτω:
+-[journalctl -b and neofetch comands in arch linux with i3](https://asciinema.org/a/619965) Περιγραφή: Εκτέλεση των εντολών journalctl -b and neofetch 
+
+-[Read news and explore (crypto) currencies exchange rates](https://asciinema.org/a/619668) Περιγραφή: Διάβασμα ειδήσεων και επίδειξη των τιμών κρυπτονομισμάτων με χρήση του terminal
+
+-[Fetch the weather forecast for the city of Corfu and for the city of New York.](https://asciinema.org/a/619667) Περιγραφή: Προβολή των καιρικών συνθηκών στην πόλη της Κέρκυρας και της Νέας Υόρκης με χρήση του terminal
+
+-[Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (software+hardware) ](https://asciinema.org/a/619663) Περιγραφή: Αλλαγή του command prompt με το ακαδημαϊκό ID, παράθεση των κρυφών αρχείων, επίδειξη του configuration file και επίδειξη των πληροφοριών του συστήματος (software+hardware).
+
+-[WIfi connection with nmcli](https://asciinema.org/a/619545) Περιγραφή: Σύνδεση σε wifi
+
+Σας παραθέτω επίσης το σύνδεσμο για το repository μου με μια πρώτη προσπάθεια του [pandoc blog](https://github.com/chriskarydis/pandoc_blog)
