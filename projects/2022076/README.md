@@ -90,6 +90,7 @@ Eγκατάσταση:
 Σε αυτό το παραδοτέο πραγματοποίησα ορισμένες από τις [Warming Up with CLI Commands](https://github.com/epidrome/dokey).
 
 Αυτές είναι οι παρακάτω:
+
 -[journalctl -b and neofetch comands in arch linux with i3](https://asciinema.org/a/619965) Περιγραφή: Εκτέλεση των εντολών journalctl -b and neofetch 
 
 -[Read news and explore (crypto) currencies exchange rates](https://asciinema.org/a/619668) Περιγραφή: Διάβασμα ειδήσεων και επίδειξη των τιμών κρυπτονομισμάτων με χρήση του terminal
